@@ -1,0 +1,32 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700);
+
+
+
+#menu-1 .navbar-toggler {
+  color: #000;
+}
+#menu-1 .navbar-brand {
+  font-family: 'Roboto Slab', serif;
+}
+#header1-4 H1 {
+  color: #5bc0de;
+  text-align: center;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 48px;
+}
+#header1-4 .btn {
+  font-size: 30px;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+#menu-2 .navbar-toggler {
+  color: #000;
+}
+#menu-2 .navbar-brand {
+  font-family: 'Roboto Slab', serif;
+}
+#header1-3 H1 {
+  font-size: 48px;
+}
